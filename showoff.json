@@ -1,0 +1,20 @@
+{
+  "name": "Advanced PeopleSoft Administration",
+  "protected": [
+    "presenter",
+    "onepage",
+    "print"
+  ],
+  "user": "dan",
+  "password": "password",
+  "highlight": "railscasts",
+  "sections": [
+    "intro/intro.md",
+    "intro/about.md",
+    "intro/agenda.md",
+    "dpk/dpk.md",
+    "custom_modules/custom.md",
+    "scripting/scripting.md",
+    "git/git.md"
+  ]
+}
