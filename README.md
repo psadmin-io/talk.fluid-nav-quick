@@ -1,6 +1,6 @@
-# Advanced PeopleSoft Administration
+# psadmin.io Showoff Template
 
-Slides for the "Advanced PeopleSoft Administration" talk from psadmin.io. Each conference talk has been adapted for the audience. View the branches to find the various versions of this talk. Each conference will have a separate branch.
+View the branches to find the various versions of this talk. Each conference talk will have a separate branch.
 
 To download and view the presentation locally:
 
