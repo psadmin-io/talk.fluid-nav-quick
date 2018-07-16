@@ -66,6 +66,34 @@ body {
   background-color: #6F7474;
 }
 
+.orange { 
+  background-color: #fbb03b;
+}
+
+.blue {
+  background-color: #04a6ff;
+}
+
+.darkblue {
+  background-color: #121b54;
+}
+
+.purple {
+  background-color: #5c4ee5;
+}
+
+.black {
+  background-color: #000000;
+}
+
+.green {
+  background-color: #67be28;
+}
+
+.oraclered {
+  background-color: #f80000;
+}
+
 .grey h1 {
   color: white ;
   font-size: 90px;
@@ -118,4 +146,14 @@ code {
 
 #hamburger:hover {
   background-color: #1392FE;
+}
+
+.bullets > ul > li {
+  text-align: left !important;
+  padding: 0px !important;
+}
+
+.bullets ul {
+  list-style: disc !important;
+  padding-left: 0px;
 }
