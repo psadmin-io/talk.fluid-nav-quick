@@ -1,13 +1,29 @@
 !SLIDE bullets
 
-# About Us
+# Kyle Benson
 
-psadmin.io is a community of PeopleSoft Administrators
-
-!SLIDE bullets
-
-# Kyle Beson
+* PeopleSoft Administrator
+    * Automation/DPK
+    * Life Cycle Management
+    * Fluid Navigation
+* Oracle ACE
+* 10+ years in PeopleSoft
 
 !SLIDE bullets
 
 # Dan Iverson
+
+* PeopleSoft Administrator
+* Developer, Tech Lead, Project Manager
+* Oracle ACE
+* 15+ Years with PeopleSoft
+
+!SLIDE bullets
+
+# About psadmin.io
+
+* Blog
+* Podcast
+* Community
+* Training
+* Coaching
