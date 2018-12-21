@@ -3,24 +3,32 @@
 ## Fluid Navigation
 # Create
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Creating Tiles
 
 * Manual (direct and attribute-link)
 * Tile Wizard
 
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
 !SLIDE bullets
 
 # Creating Homepages
 
 * TODO
 
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
+
 !SLIDE bullets
 
 # Creating Dashboards
 
 * TODO
+
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
 
 !SLIDE bullets
 
@@ -30,6 +38,9 @@
 * Dashboard
 * NavBar
 
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
+
 !SLIDE bullets
 
 # Navigator Search
@@ -38,3 +49,6 @@
 * Header Search
 * Component Search
 * Different Search Context...
+
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~

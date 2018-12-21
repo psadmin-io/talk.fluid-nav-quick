@@ -3,26 +3,43 @@
 ## Fluid Navigation
 # Design
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Navigation For You
 
-* TODO
+* Delivered Homepages are work in progress
+* Business Process/Roles differ
+* Multiple Pillars can be clustered 
 
-!SLIDE bullets
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
+
+!SLIDE bullets incremental
 
 # Design Methods and Tools
 
-* Onenote
-* Focus Groups
-* Agile
-* Usability Testing
+* Wireframe
+* Design around roles and processes
+* Iterative works well
+* Usability testing early/often
 
-!SLIDE bullets
+~~~SECTION:notes~~~
+- I used OneNote - will share in upcoming course
+- Get business envolved
+~~~ENDSECTION~~~
+!SLIDE bullets incremental
 
 # Design Considerations
 
-* Not TOO many homepages/tiles
-* Menu Navigator should be last options
+* Navigator as last resort
+* Homepage/Tile overload
+* Demanding Live Tiles
+* Reuse work put into Classic Homepages, Workcenters
+* Think about clustering, even if future effort
+* Accessibility is better - not perfect
 * Designing Security
 
+~~~SECTION:notes~~~
+Not TOO many homepages/tiles
+Alot of security tied in with design
+~~~ENDSECTION~~~

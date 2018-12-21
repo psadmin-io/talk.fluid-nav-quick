@@ -3,22 +3,25 @@
 ## Fluid Navigation
 # Change
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
-# Change Management
+# Change
 
-* Think end users point of view (focus groups)
-* Buesiness Leads
-* TODO
+* Better... but different!
+* No breadcrumbs
+* Personalization challenges 
+* Clustering technology impacts infrastructure
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
-# Life Cycle Management
+# Better Prepare 
 
-* TODO
+* Plan for change management, include in project
+* Better design, Less training
+* Focus on concepts, versus navigation paths
+* Short overview video 
+* Targeted out reach to smaller groups
 
-!SLIDE bullets
-
-# Impact to Infrastructure
-
-* TODO
+~~~SECTION:notes~~~
+- Overall focus on concepts, in smaller groups focus on business process,etc
+~~~ENDSECTION~~~
