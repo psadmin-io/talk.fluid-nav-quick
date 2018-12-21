@@ -9,17 +9,20 @@
 
 * Better... but different!
 * No breadcrumbs
-* Personalization challenges 
+* Personalization challenges
 * Clustering technology impacts infrastructure
+
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
 
 !SLIDE bullets incremental
 
-# Better Prepare 
+# Better Prepare
 
 * Plan for change management, include in project
 * Better design, Less training
 * Focus on concepts, versus navigation paths
-* Short overview video 
+* Short overview video
 * Targeted out reach to smaller groups
 
 ~~~SECTION:notes~~~

@@ -25,7 +25,7 @@
 
 ~~~SECTION:notes~~~
 - I used OneNote - will share in upcoming course
-- Get business envolved
+- Get business involved
 ~~~ENDSECTION~~~
 !SLIDE bullets incremental
 
@@ -41,5 +41,5 @@
 
 ~~~SECTION:notes~~~
 Not TOO many homepages/tiles
-Alot of security tied in with design
+A lot of security tied in with design
 ~~~ENDSECTION~~~

@@ -21,11 +21,11 @@
     * Navigation path to a transaction
 * Why is it important?
 ~~~SECTION:notes~~~
-- Not an offical term
+- Not an official term
 - Fluid = PS new UI
-- Not offical, but have heard Ora(D. Bain) use it in talks
+- Not official, but have heard Ora(D. Bain) use it in talks
 - not talking about Fluid Pages (Go see Jim Marion - JSM Pros)
-- new ways to get to a trasaction, using Fluid
+- new ways to get to a transaction, using Fluid
 - Ora is asking US to create useful navigation, not delivered Navigator
 ~~~ENDSECTION~~~
 

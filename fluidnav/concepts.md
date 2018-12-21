@@ -13,7 +13,6 @@
 ~~~SECTION:notes~~~
 ~~~ENDSECTION~~~
 
-
 !SLIDE bullets
 
 # Fluid Header
@@ -30,6 +29,7 @@
 
 ~~~SECTION:notes~~~
 ~~~ENDSECTION~~~
+
 !SLIDE bullets
 
 # Tiles
@@ -51,6 +51,7 @@
 * Contains tiles, like Classic contained pagelets
 * Fluid version of Classic Dashboard
 * One level lower than Homepages in navigation
+
 ~~~SECTION:notes~~~
 - Organized by task or role
 - Dashboards need to be drilled into, vs homepage=landing page
@@ -68,5 +69,7 @@
 
 ~~~SECTION:notes~~~
 ~~~ENDSECTION~~~
+
 !SLIDE center subsection grey
+
 # Demo
