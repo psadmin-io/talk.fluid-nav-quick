@@ -10,11 +10,13 @@
   "highlight": "railscasts",
   "sections": [
     "intro/intro.md",
-    "fluidnav/intro.md",
-    "fluidnav/concepts.md",
-    "fluidnav/design.md",
-    "fluidnav/create.md",
-    "fluidnav/change.md",
-    "intro/outro.md"
+    "intro/about.md",
+    "intro/agenda.md",
+    "fluid/intro.md",
+    "fluid/concepts.md",
+    "fluid/design.md",
+    "fluid/create.md",
+    "fluid/change.md",
+    "intro/close.md"
   ]
 }

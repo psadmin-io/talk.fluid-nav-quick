@@ -11,15 +11,6 @@
 
 !SLIDE bullets
 
-# Dan Iverson
-
-* PeopleSoft Administrator
-* Developer, Tech Lead, Project Manager
-* Oracle ACE
-* 15+ Years with PeopleSoft
-
-!SLIDE bullets
-
 # About psadmin.io
 
 * Blog
