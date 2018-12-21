@@ -5,7 +5,7 @@
 
 !SLIDE bullets incremental
 
-# Change
+# Change Management
 
 * Better... but different!
 * No breadcrumbs
@@ -27,4 +27,25 @@
 
 ~~~SECTION:notes~~~
 - Overall focus on concepts, in smaller groups focus on business process,etc
+~~~ENDSECTION~~~
+
+!SLIDE bullets incremental
+
+# Life Cycle Management
+
+* TODO
+* Phire
+* ADS
+* ACM
+
+~~~SECTION:notes~~~
+~~~ENDSECTION~~~
+
+!SLIDE bullets incremental
+
+# Impact to Infrastructure
+
+* TODO
+
+~~~SECTION:notes~~~
 ~~~ENDSECTION~~~

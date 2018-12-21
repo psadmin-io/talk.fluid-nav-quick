@@ -3,15 +3,20 @@
 ## Fluid Navigation
 # Introduction
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Course Introduction
 
-* Kyle Benson
-* sections
-* outcome
+1. Introduction
+1. Concepts
+1. Design
+1. Create
+1. Change
+
+~~~SECTION:notes~~~
 * we won't cover (mention beyond quickstart)
 * how to follow along, PI, vagabond
+~~~ENDSECTION~~~
 
 !SLIDE bullets incremental
 
@@ -20,6 +25,7 @@
     * Subset of Fluid technology
     * Navigation path to a transaction
 * Why is it important?
+
 ~~~SECTION:notes~~~
 - Not an official term
 - Fluid = PS new UI
